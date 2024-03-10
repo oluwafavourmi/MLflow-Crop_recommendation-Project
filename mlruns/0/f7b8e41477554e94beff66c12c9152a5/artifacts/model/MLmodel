@@ -1,0 +1,28 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.2
+mlflow_version: 2.11.1
+model_size_bytes: 43181
+model_uuid: 0bba387135624451aca962d8e0e57e90
+run_id: f7b8e41477554e94beff66c12c9152a5
+signature:
+  inputs: '[{"type": "long", "name": "N", "required": true}, {"type": "long", "name":
+    "P", "required": true}, {"type": "long", "name": "K", "required": true}, {"type":
+    "double", "name": "temperature", "required": true}, {"type": "double", "name":
+    "humidity", "required": true}, {"type": "double", "name": "ph", "required": true},
+    {"type": "double", "name": "rainfall", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int32", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-03-10 17:08:12.698259'

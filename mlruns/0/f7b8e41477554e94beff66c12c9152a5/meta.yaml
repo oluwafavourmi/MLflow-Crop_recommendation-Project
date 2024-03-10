@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/TeeFaith/Desktop/ML%20PROJECTS/CROP%20RECOMMENDATION%20MLFLOW/mlruns/0/f7b8e41477554e94beff66c12c9152a5/artifacts
+end_time: 1710090618732
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7b8e41477554e94beff66c12c9152a5
+run_name: adorable-bear-249
+run_uuid: f7b8e41477554e94beff66c12c9152a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710090484130
+status: 3
+tags: []
+user_id: TeeFaith
