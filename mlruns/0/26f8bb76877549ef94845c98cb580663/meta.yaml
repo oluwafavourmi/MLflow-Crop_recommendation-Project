@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/TeeFaith/Desktop/ML%20PROJECTS/CROP%20RECOMMENDATION%20MLFLOW/mlruns/0/26f8bb76877549ef94845c98cb580663/artifacts
+end_time: 1710025567969
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26f8bb76877549ef94845c98cb580663
+run_name: puzzled-loon-239
+run_uuid: 26f8bb76877549ef94845c98cb580663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710025566329
+status: 3
+tags: []
+user_id: TeeFaith

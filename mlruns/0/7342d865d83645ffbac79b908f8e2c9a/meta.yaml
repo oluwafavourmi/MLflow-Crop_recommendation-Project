@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/TeeFaith/Desktop/ML%20PROJECTS/CROP%20RECOMMENDATION%20MLFLOW/mlruns/0/7342d865d83645ffbac79b908f8e2c9a/artifacts
+end_time: 1710023268557
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7342d865d83645ffbac79b908f8e2c9a
+run_name: charming-deer-788
+run_uuid: 7342d865d83645ffbac79b908f8e2c9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710023267942
+status: 3
+tags: []
+user_id: TeeFaith

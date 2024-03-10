@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/TeeFaith/Desktop/ML%20PROJECTS/CROP%20RECOMMENDATION%20MLFLOW/mlruns/0/facb4d92a185495b8bc585627ad37072/artifacts
+end_time: 1710023234541
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: facb4d92a185495b8bc585627ad37072
+run_name: bustling-vole-457
+run_uuid: facb4d92a185495b8bc585627ad37072
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710023233991
+status: 3
+tags: []
+user_id: TeeFaith

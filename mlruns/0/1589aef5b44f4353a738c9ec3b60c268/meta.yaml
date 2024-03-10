@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/TeeFaith/Desktop/ML%20PROJECTS/CROP%20RECOMMENDATION%20MLFLOW/mlruns/0/1589aef5b44f4353a738c9ec3b60c268/artifacts
+end_time: 1710023242266
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1589aef5b44f4353a738c9ec3b60c268
+run_name: blushing-dove-4
+run_uuid: 1589aef5b44f4353a738c9ec3b60c268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710023241573
+status: 3
+tags: []
+user_id: TeeFaith

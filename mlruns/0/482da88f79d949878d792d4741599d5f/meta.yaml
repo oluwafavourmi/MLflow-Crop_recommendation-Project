@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/TeeFaith/Desktop/ML%20PROJECTS/CROP%20RECOMMENDATION%20MLFLOW/mlruns/0/482da88f79d949878d792d4741599d5f/artifacts
+end_time: 1710023613411
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 482da88f79d949878d792d4741599d5f
+run_name: nosy-eel-937
+run_uuid: 482da88f79d949878d792d4741599d5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710023610685
+status: 3
+tags: []
+user_id: TeeFaith
