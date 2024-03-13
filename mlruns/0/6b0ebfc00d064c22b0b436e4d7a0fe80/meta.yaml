@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/TeeFaith/Desktop/ML%20PROJECTS/CROP%20RECOMMENDATION%20MLFLOW/mlruns/0/6b0ebfc00d064c22b0b436e4d7a0fe80/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b0ebfc00d064c22b0b436e4d7a0fe80
+run_name: puzzled-asp-78
+run_uuid: 6b0ebfc00d064c22b0b436e4d7a0fe80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710345878759
+status: 1
+tags: []
+user_id: TeeFaith
