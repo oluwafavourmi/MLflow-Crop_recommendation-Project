@@ -34,8 +34,8 @@ if __name__ == '__main__':
     y = df['label']
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.1)
     
-    C = 0.2
-    degree = 1
+    C = 4.5
+    degree = 2
     max_iter = -1
     
     with mlflow.start_run():
